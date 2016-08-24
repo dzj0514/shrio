@@ -1,0 +1,6 @@
+/report-parent/.idea
+/report-parent/report-common/target
+/report-parent/report-common/*.iml
+/report-parent/report-web/target
+/report-parent/report-web/*.iml
+/report-parent/*.iml
